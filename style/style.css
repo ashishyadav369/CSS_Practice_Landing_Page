@@ -8,7 +8,7 @@
 }
 
 .main-content {
-    background: linear-gradient(0deg, rgba(2, 13, 55, 0.7), rgba(2, 13, 55, 0.7)), url(bg.jpg);
+    background: linear-gradient(0deg, rgba(2, 13, 55, 0.7), rgba(2, 13, 55, 0.7)), url(../assets/bg.jpg);
     background-size: cover;
     /* height: 100%; */
     padding-bottom: 150px;
@@ -340,62 +340,62 @@
 }
 
 .img1 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img1.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img1.jpg);
 
 }
 
 .img2 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img2.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img2.jpg);
     
 }
 
 .img3 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img3.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img3.jpg);
     
 }
 
 .img4 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img4.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img4.jpg);
     
 }
 
 .img5 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img5.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img5.jpg);
     
 }
 
 .img6 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img6.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img6.jpg);
     
 }
 
 .img7 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img7.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img7.jpg);
     
 }
 
 .img8 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img8.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img8.jpg);
     
 }
 
 .img9 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img9.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img9.jpg);
     
 }
 
 .img10 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img10.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img10.jpg);
     
 }
 
 .img11 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img11.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img11.jpg);
     
 }
 
 .img12 {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img12.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/img12.jpg);
     
 }
 
@@ -715,7 +715,7 @@
 
 .profile-picture {
 
-    background-image: url(profile1.jpg);
+    background-image: url(../assets/profile1.jpg);
     /* background-position-x: 40%; */
     background-size: cover;
     height: 70px;
@@ -725,7 +725,7 @@
 
 .profile-picture1 {
 
-    background-image: url(profile2.jpg);
+    background-image: url(../assets/profile2.jpg);
     /* background-position-x: 40%; */
     background-size: cover;
     height: 70px;
@@ -735,7 +735,7 @@
 
 .profile-picture2 {
 
-    background-image: url(profile3.jpg);
+    background-image: url(../assets/profile3.jpg);
     /* background-position-x: 40%; */
     background-size: cover;
     height: 70px;
